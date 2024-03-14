@@ -1,0 +1,5 @@
+{
+  "error": "no such element",
+  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//button[@class=\"chakra-button chakra-menu__menu-button css-pu8osu\"])[1]\"}\n  (Session info: chrome=122.0.6261.112)",
+  "stacktrace": "\tGetHandleVerifier [0x00007FF6D1B9AD32+56930]\n\t(No symbol) [0x00007FF6D1B0F632]\n\t(No symbol) [0x00007FF6D19C42E5]\n\t(No symbol) [0x00007FF6D1A098ED]\n\t(No symbol) [0x00007FF6D1A09A2C]\n\t(No symbol) [0x00007FF6D1A4A967]\n\t(No symbol) [0x00007FF6D1A2BCDF]\n\t(No symbol) [0x00007FF6D1A481E2]\n\t(No symbol) [0x00007FF6D1A2BA43]\n\t(No symbol) [0x00007FF6D19FD438]\n\t(No symbol) [0x00007FF6D19FE4D1]\n\tGetHandleVerifier [0x00007FF6D1F16ABD+3709933]\n\tGetHandleVerifier [0x00007FF6D1F6FFFD+4075821]\n\tGetHandleVerifier [0x00007FF6D1F6818F+4043455]\n\tGetHandleVerifier [0x00007FF6D1C39766+706710]\n\t(No symbol) [0x00007FF6D1B1B90F]\n\t(No symbol) [0x00007FF6D1B16AF4]\n\t(No symbol) [0x00007FF6D1B16C4C]\n\t(No symbol) [0x00007FF6D1B06904]\n\tBaseThreadInitThunk [0x00007FFA5B8D7344+20]\n\tRtlUserThreadStart [0x00007FFA5BCA26B1+33]\n"
+}
