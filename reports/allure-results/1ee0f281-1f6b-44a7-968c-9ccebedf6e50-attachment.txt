@@ -1,5 +1,0 @@
-{
-  "error": "no such element",
-  "message": "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"(//div[@class=\"chakra-alert__desc css-zycdy9\"])[1]\"}\n  (Session info: chrome=122.0.6261.113)",
-  "stacktrace": "\tGetHandleVerifier [0x00007FF6F616AD02+56930]\n\t(No symbol) [0x00007FF6F60DF602]\n\t(No symbol) [0x00007FF6F5F942E5]\n\t(No symbol) [0x00007FF6F5FD98ED]\n\t(No symbol) [0x00007FF6F5FD9A2C]\n\t(No symbol) [0x00007FF6F601A967]\n\t(No symbol) [0x00007FF6F5FFBCDF]\n\t(No symbol) [0x00007FF6F60181E2]\n\t(No symbol) [0x00007FF6F5FFBA43]\n\t(No symbol) [0x00007FF6F5FCD438]\n\t(No symbol) [0x00007FF6F5FCE4D1]\n\tGetHandleVerifier [0x00007FF6F64E6F8D+3711213]\n\tGetHandleVerifier [0x00007FF6F65404CD+4077101]\n\tGetHandleVerifier [0x00007FF6F653865F+4044735]\n\tGetHandleVerifier [0x00007FF6F6209736+706710]\n\t(No symbol) [0x00007FF6F60EB8DF]\n\t(No symbol) [0x00007FF6F60E6AC4]\n\t(No symbol) [0x00007FF6F60E6C1C]\n\t(No symbol) [0x00007FF6F60D68D4]\n\tBaseThreadInitThunk [0x00007FFC3EB17344+20]\n\tRtlUserThreadStart [0x00007FFC406626B1+33]\n"
-}
