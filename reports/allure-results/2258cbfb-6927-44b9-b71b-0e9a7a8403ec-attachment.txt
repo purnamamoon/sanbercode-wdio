@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//div[@class=\"css-1mqa38q\"])[5]"
-}

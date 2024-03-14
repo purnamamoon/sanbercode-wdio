@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//button[@class=\"chakra-button css-n45e6f\"])"
-}

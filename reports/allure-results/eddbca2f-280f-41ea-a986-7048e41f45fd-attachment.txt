@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//div[@class=\"chakra-alert__desc css-zycdy9\"])[1]"
-}

@@ -1,4 +1,0 @@
-{
-  "using": "xpath",
-  "value": "(//td[@class=\"css-u3dlpe\"])[1]"
-}
